@@ -1,4 +1,4 @@
 # sf-snake
 A snake game in sfml c++
 
-![screenshot](screenshot (1).png)
+![screenshot](screenshot1.png)
