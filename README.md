@@ -14,9 +14,13 @@ Endless game mode has telepathic walls that let u move from one wall end to the 
 
 <h1>Custom</h1>
 Allows you to unleach your creativity by giving you the ability to design levels, adjust snake speed, toggling telepathic walls and increasing food amount.
-<br/>
+
+<br>
+
 ![design mode](./screenshots/screenshot2.png)
-<br/>
+
+<br>
+
 ![play mode](./screenshots/screenshot3.png)
 
 <h1>How to Play</h1>
