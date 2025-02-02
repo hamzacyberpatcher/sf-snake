@@ -2,6 +2,8 @@
 
 It's a sanke game I made with my bro as final project for programming fundamentals in first semeseter.
 
+![main game menu](./screenshots/screenshot1.png)
+
 To play the game simply choose a game mode (simple, endless and custom)
 
 <h1>Simple</h1>
@@ -12,6 +14,9 @@ Endless game mode has telepathic walls that let u move from one wall end to the 
 
 <h1>Custom</h1>
 Allows you to unleach your creativity by giving you the ability to design levels, adjust snake speed, toggling telepathic walls and increasing food amount.
+
+![design mode](./screenshots/screenshot2.png)
+![play mode](./screenshots/screenshot3.png)
 
 <h1>How to Play</h1>
 Simple just use the arrows or WASD keys to move the snake, press ESCAPE key to pause the game at any moment.
